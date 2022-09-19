@@ -1,6 +1,6 @@
 # Certificard - Imersão Dev (2022)
 
-![preview](./.github/preview.png)
+![preview](./.github/Preview.png)
 
 Projetos construídos durante o evento Imersão Dev da Alura.
 
