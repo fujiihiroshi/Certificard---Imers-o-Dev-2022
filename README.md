@@ -15,7 +15,7 @@ Projetos construídos durante o evento Imersão Dev da Alura.
 ## 🧑‍🏫 Educadores
 - [**Paulo Silveira**](https://github.com/peas)
 - [**Rafaella Ballerini**](https://github.com/rafaballerini)
-- Guilherme Lima (Não achei o Github dele, quando achar, adiciono 🙃)
+- [**Guilherme Lima**] (https://github.com/guilhermeonrails)
 
 ## 🖥️ Projetos
 - Calculadora de média
